@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Jenu-Gumpu</string>
+    <string name="harvest_log">Harvest Log</string>
+    <string name="grading_tool">Honey Grading</string>
+    <string name="stock_tracker">Stock Tracker</string>
+    <string name="price_monitor">Price Monitor</string>
+    <string name="profit_calculator">Profit Calculator</string>
+    <string name="batch_id">Batch ID</string>
+    <string name="location">Location</string>
+    <string name="quantity_kg">Quantity kg</string>
+    <string name="save">Save</string>
+    <string name="retail_price">Retail price</string>
+    <string name="wholesale_price">Wholesale price</string>
+    <string name="refresh">Refresh</string>
+    <string name="profit">Profit</string>
+</resources>

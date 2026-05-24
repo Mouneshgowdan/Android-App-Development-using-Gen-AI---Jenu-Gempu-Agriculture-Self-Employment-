@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ಜೇನು-ಗುಂಪು</string>
+    <string name="harvest_log">ಕೊಯ್ಲು ದಾಖಲೆ</string>
+    <string name="grading_tool">ಜೇನು ಗುಣಮಟ್ಟ</string>
+    <string name="stock_tracker">ಸ್ಟಾಕ್ ಮಾಹಿತಿ</string>
+    <string name="price_monitor">ಬೆಲೆ ಹೋಲಿಕೆ</string>
+    <string name="profit_calculator">ಲಾಭ ಲೆಕ್ಕ</string>
+    <string name="batch_id">ಬ್ಯಾಚ್ ಸಂಖ್ಯೆ</string>
+    <string name="location">ಸ್ಥಳ</string>
+    <string name="quantity_kg">ಪ್ರಮಾಣ ಕೆ.ಜಿ.</string>
+    <string name="save">ಉಳಿಸಿ</string>
+    <string name="retail_price">ಚಿಲ್ಲರೆ ಬೆಲೆ</string>
+    <string name="wholesale_price">ಮಾರಾಟಗಾರರ ಬೆಲೆ</string>
+    <string name="refresh">ಮತ್ತೆ ನೋಡಿ</string>
+    <string name="profit">ಲಾಭ</string>
+</resources>
